@@ -2,7 +2,7 @@
 
 ¡Hola, mundo! Soy Ferran226, y tengo el placer de presentarte mi proyecto de Detector de Idioma. Este pequeño programa mágico te ayudará a descubrir el idioma en el que está escrito un texto. ¡No más adivinanzas! Sigue leyendo para obtener más información sobre cómo funciona y cómo puedes usarlo.
 
-(Inicio.png)
+!(Inicio.png)
 
 ## ¿Qué es esto? 🚀
 
