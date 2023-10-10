@@ -13,11 +13,6 @@ Antes de empezar, asegúrate de tener instalado Python en tu computadora. Ademá
 - `tkinter`: Esta biblioteca se utiliza para crear la interfaz gráfica.
 - `langdetect`: ¡La magia ocurre aquí! Detecta el idioma del texto.
 
-Puedes instalar estas bibliotecas ejecutando los siguientes comandos en tu terminal:
-
-```bash
-pip install tk
-pip install langdetect
 
 ## ¿Cómo funciona? 🤖
 
