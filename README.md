@@ -45,6 +45,7 @@ I hope you enjoy using this little tool as much as I enjoyed creating it! If you
 
 Have fun discovering languages with Ferran226 Language Detector! 😄✨
 
+---
 
 # 🇪🇸 Detector de Idioma Divertido y Fácil de Usar 😄
 
